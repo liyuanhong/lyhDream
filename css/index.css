@@ -6,6 +6,15 @@ body{
 }
 #body{
 	background-color:#cccccc;
-	height:50px;
+	height:100px;
 	width:100%;
+	margin:0px;
+	padding-top:20px;
+}
+
+#title{
+	background-color:#cccccc;
+	margin-top:0px;
+	text-align:center;
+	color:#FD5C01;
 }

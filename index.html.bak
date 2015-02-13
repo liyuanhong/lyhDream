@@ -5,10 +5,9 @@
 	</head>
 		
 	<body>
-		<style type="text/css" ></style>
 		<link rel="stylesheet" type="text/css" href="./css/index.css" />
 		<div id="body" class="C_body">
-			
+			<h1 id="title" background="red">ิตรฮอ๘</h1>
 		</div>
 		
 		<div/>
