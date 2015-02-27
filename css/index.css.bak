@@ -16,5 +16,18 @@ body{
 	background-color:#cccccc;
 	margin-top:0px;
 	text-align:center;
-	color:##FD5C01;
+	color:#FD5C01;
 }
+
+#login_module{
+	float:right;
+	margin-right:50px;
+}
+
+li{
+	list-style-type:none;
+	display:inline;	
+	padding-right:10px;
+	cursor:hand;
+}
+

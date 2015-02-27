@@ -1,15 +1,19 @@
-<!DOCTYPE HTML>
+ï»¿<!DOCTYPE HTML>
 <html>
 	<head>
-		<title>ÔµÃÎÍø-lyhDream</title>
+		<title>ç¼˜æ¢¦ç½‘-lyhDream</title>
 	</head>
 		
 	<body>
 		<link rel="stylesheet" type="text/css" href="./css/index.css" />
+		<script type="text/javascript" src="script/index.js">
+		</script>
 		<div id="body" class="C_body">
-			<h1 id="title" background="red">ÔµÃÎÍø</h1>
-		</div>
-		
-		<div/>
+			<h1 id="title">ç¼˜æ¢¦ç½‘</h1>	
+			<ul id="login_module">
+				<li id="login" onclick="login()">ç™»å½•<li/>
+				<li id="regist">æ³¨å†Œ<li/>
+			<ul/>
+		</div>		
 	<body/>
 </html>
