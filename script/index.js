@@ -5,3 +5,8 @@ function login(){
 function regist(){
 	alert("regist function");
 }
+
+function closeBg() { 
+	$("#fullbg,#dialog").hide(); 
+} 
+
